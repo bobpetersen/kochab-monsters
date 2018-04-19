@@ -1,0 +1,24 @@
+{
+  "name": "kochab-monsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobpetersen/kochab-monsters.git"
+  },
+  "author": "Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobpetersen/kochab-monsters/issues"
+  },
+  "homepage": "https://github.com/bobpetersen/kochab-monsters#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
